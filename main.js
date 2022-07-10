@@ -131,7 +131,7 @@ async function connectionUpdate(update) {
   }
   if (global.db.data == null) await loadDatabase()
   console.log(JSON.stringify(update, null, 4))
-  if (update.receivedPendingNotifications) conn.sendMessage(`6287898307350@s.whatsapp.net`, {text: 'BERHASIL TERSAMBUNG KE BOT ✿𝐆𝐞𝐦𝐩𝐲 𝐓𝐨𝐧✿ JANGAN LUPA SAVE GEMPY, PASTI DI SAVEBACK' })
+  if (update.receivedPendingNotifications) conn.sendMessage(`6287898307350@s.whatsapp.net`, {text: 'BERHASIL TERSAMBUNG KE BOT ✿DikaOFC✿ JANGAN LUPA SAVE DIKA, PASTI DI SAVEBACK' })
 }
 
 
