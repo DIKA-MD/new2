@@ -1,14 +1,14 @@
 let fs = require('fs')                    //CREATOR = YahyaGanzz , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6285951642383'],
-  ['6285951642383'],
+  ['6288223674569'],
+  ['6288223674569'],
   ['6288223674569', 'Owner DikaOFC', true]  
   
 ] 
 global.ownername = [['DikaOFC']]
 global.namabot = [['Cylen-MD']]
-global.ownerinsta = [['@wibu_indo_888816']]
+global.ownerinsta = [['@Gempy Ton | DikaOFC']]
 global.mods = [] 
 global.prems = [] 
 
