@@ -167,7 +167,7 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = 'HALO @user 👋\n SELAMAT DATANG DI @subject \n❋𝗝𝗔𝗦𝗔 𝗥𝗨𝗡❋\n-𝚃𝚒𝚗𝚐𝚐𝚊𝚕 𝚂𝚌𝚊𝚗\n-𝟸𝟺𝙹𝚊𝚖 𝚋𝚘𝚝 𝚊𝚔𝚝𝚒𝚏\n𝙿𝚊𝚢𝚖𝚎𝚗𝚝 : 𝙳𝙰𝙽𝙰\n𝙼𝚒𝚗𝚊𝚝 ? wa.me/6288223674569?text=Bg%20Beli%20Jasa%20Run' 
+  conn.welcome = 'Welcome @user 👋 \n❋𝗝𝗔𝗦𝗔 𝗥𝗨𝗡❋\n-𝚃𝚒𝚗𝚐𝚐𝚊𝚕 𝚂𝚌𝚊𝚗\n-𝟸𝟺𝙹𝚊𝚖 𝚋𝚘𝚝 𝚊𝚔𝚝𝚒𝚏\n𝙿𝚊𝚢𝚖𝚎𝚗𝚝 : 𝙳𝙰𝙽𝙰\n𝙼𝚒𝚗𝚊𝚝 ? wa.me/6288223674569?text=Bg%20Beli%20Jasa%20Run' 
   conn.bye = 'YAHHH @user TELAH KELUAR DARI @subject'
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
