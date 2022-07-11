@@ -52,45 +52,7 @@ const defaultMenu = {
 ╠❥🤺𝙴𝚡𝚙   : %exp
 ╚═══════╦════════╝
 ╔═══════╩════════╗
-╠➤Fitur dibwh iklan
-╚═══════╦════════╝
-╔═══════╩════════╗
-╠➤Iklan: 
-*Mau jadi owner?*
-Bisa jadi owner bot & bisa di sewaiin, tanpa ribet, *tanpa download apapun*
-
-✅ Fitur Store (Full fitur)
-✅ Antilink
-✅ Antivirus
-✅ Antibadword
-✅ Antidelete chat
-✅ Hidetag
-✅ Broadcast
-✅ Fitur game (lengkap)
-✅ Random sticker
-✅ Download YouTube
-✅ Download Tiktok
-✅ Welcome image
-✅ Fitur RPG (lengkap)
-✅ Asupan
-✅ smeme (work)
-✅ sticker telegram (Url) / (Random)
-✅ Kerang menu
-✅ Fitur Internet
-✅ Anonymous
-✅ Fitur berita (lengkap)
-✅ Fitur Tools
-✅ Voting menu
-✅ Fitur islami
-✅ Fitur audio (lengkap)
-✅ Fitur maker
-
- _🔄And Others🔄_
-
-*20k / bulan*
-*25k / permanen*
-
-*Minat cht :* https://wa.me/6288223674569
+╠➤*Jangan lupa Baca Katalog, banyak informasi tentang bot*
 ╠════════════════╝
 %readmore`.trimStart(),
   header: '╠♨ %category ♨',
