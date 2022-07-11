@@ -52,7 +52,10 @@ const defaultMenu = {
 ╠❥🤺𝙴𝚡𝚙   : %exp
 ╚═══════╦════════╝
 ╔═══════╩════════╗
-Iklan: 
+╠➤Fitur dibwh iklan
+╚═══════╦════════╝
+╔═══════╩════════╗
+╠➤Iklan: 
 *Mau jadi owner?*
 Bisa jadi owner bot & bisa di sewaiin, tanpa ribet, *tanpa download apapun*
 
