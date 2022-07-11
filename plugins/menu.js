@@ -41,7 +41,7 @@ const defaultMenu = {
 ╠➤💻𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : DikaXxyy
 ╠➤⏰𝙐𝙥𝙩𝙞𝙢𝙚 : %uptime
 ╠➤🗓️𝙏𝙖𝙣𝙜𝙜𝙖𝙡 : %date
-╠➤🔍𝙏𝙤𝙩𝙖𝙡 𝙁𝙞𝙩𝙪𝙧 : *350*
+╠➤🔍𝙏𝙤𝙩𝙖𝙡 𝙁𝙞𝙩𝙪𝙧 : *350
 ╠➤(Ⓟ) : 𝙋𝙧𝙚𝙢𝙞𝙪𝙢
 ╠➤(Ⓛ) : 𝙇𝙞𝙢𝙞𝙩
 ╚═══════╦════════╝
@@ -50,6 +50,44 @@ const defaultMenu = {
 ╠❥📈𝙻𝚒𝚖𝚒𝚝 : %limit
 ╠❥🥀𝙻𝚎𝚟𝚎𝚕 : %level
 ╠❥🤺𝙴𝚡𝚙   : %exp
+╚═══════╦════════╝
+╔═══════╩════════╗
+Iklan: 
+*Mau jadi owner?*
+Bisa jadi owner bot & bisa di sewaiin, tanpa ribet, *tanpa download apapun*
+
+✅ Fitur Store (Full fitur)
+✅ Antilink
+✅ Antivirus
+✅ Antibadword
+✅ Antidelete chat
+✅ Hidetag
+✅ Broadcast
+✅ Fitur game (lengkap)
+✅ Random sticker
+✅ Download YouTube
+✅ Download Tiktok
+✅ Welcome image
+✅ Fitur RPG (lengkap)
+✅ Asupan
+✅ smeme (work)
+✅ sticker telegram (Url) / (Random)
+✅ Kerang menu
+✅ Fitur Internet
+✅ Anonymous
+✅ Fitur berita (lengkap)
+✅ Fitur Tools
+✅ Voting menu
+✅ Fitur islami
+✅ Fitur audio (lengkap)
+✅ Fitur maker
+
+ _🔄And Others🔄_
+
+*20k / bulan*
+*25k / permanen*
+
+*Minat cht :* https://wa.me/6288223674569
 ╠════════════════╝
 %readmore`.trimStart(),
   header: '╠♨ %category ♨',
