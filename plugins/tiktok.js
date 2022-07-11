@@ -42,7 +42,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     const url = video.no_watermark || video.no_watermark_hd || video.with_watermark || video.no_watermark_raw
     if (!url) throw 'Can\'t download video!'
     m.reply('Sedang diproses...')
-    conn.sendFile(m.chat, url, 'tiktok.mp4', `*© Arietube*
+    conn.sendFile(m.chat, url, 'tiktok.mp4', `*© Cylen-MD*
 `.trim(), m)
 }
 handler.help = ['tiktok <url>']
