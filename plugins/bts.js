@@ -6,7 +6,7 @@ fetch('https://raw.githubusercontent.com/arivpn/dbase/master/kpop/batues.txt')
 let handler = async (m, { conn }) => {
     let img = bts[Math.floor(Math.random() * bts.length)]
     if (!img) throw img
-    await conn.sendFile(m.chat, img, '', '© nih BTSnya jangan lupa subscribe channel https://m.youtube.com/channel/UC0rPHvwr0sJtaccF8Mm1Xng 👍', m, 0, { thumbnail: await (await fetch(img)).buffer() })
+    await conn.sendFile(m.chat, img, '', '© nih BTSnya jangan lupa subscribe channel  https://youtube.com/channel/UC3HcOB2U-fgsR8onRGXFM3w👍', m, 0, { thumbnail: await (await fetch(img)).buffer() })
 }
 handler.help = ['bts']
 handler.tags = ['internet']
