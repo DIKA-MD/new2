@@ -166,7 +166,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     let url = `https://i.postimg.cc/nrMn3sMN/menu.jpg`
-    conn.sendHydrated(m.chat, text.trim(), 'Cylen-MD | DikaOFC', null, 'https://youtube.com/DIKA-MD', 'GITHUB', '', '', [
+    conn.sendHydrated(m.chat, text.trim(), 'Cylen-MD | DikaOFC', null, 'https://github.com/DIKA-MD', 'GITHUB', '', '', [
       ['𝗚𝗥𝗨𝗣 𝗕𝗢𝗧', '/donasi'],
       ['𝗝𝗔𝗦𝗔 𝗥𝗨𝗡', '/sewa'],
       ['𝗢𝗪𝗡𝗘𝗥', '/owner']
