@@ -167,10 +167,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     let url = `https://i.postimg.cc/nrMn3sMN/menu.jpg`
     conn.sendHydrated(m.chat, text.trim(), 'Cylen-MD | DikaOFC', null, 'https://github.com/DIKA-MD', 'GITHUB', '', '', [
-      ['𝗚𝗥𝗨𝗣 𝗕𝗢𝗧', '/donasi'],
+      ['𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘀𝗶', '/donasi'],
       ['𝗝𝗔𝗦𝗔 𝗥𝗨𝗡', '/sewa'],
-      ['𝗢𝗪𝗡𝗘𝗥', '/owner'],
-      ['𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘀𝗶', '/infomasi']
+      ['𝗢𝗪𝗡𝗘𝗥', '/owner']
     ], m)
     /*let url = `https://telegra.ph/file/ab1df70dfd5c2bac64da1.jpg`.trim()
     let res = await fetch(url)
