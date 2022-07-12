@@ -169,7 +169,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     conn.sendHydrated(m.chat, text.trim(), 'Cylen-MD | DikaOFC', null, 'https://github.com/DIKA-MD', 'GITHUB', '', '', [
       ['𝗚𝗥𝗨𝗣 𝗕𝗢𝗧', '/donasi'],
       ['𝗝𝗔𝗦𝗔 𝗥𝗨𝗡', '/sewa'],
-      ['𝗢𝗪𝗡𝗘𝗥', '/owner']
+      ['𝗢𝗪𝗡𝗘𝗥', '/owner'],
       ['𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘀𝗶', '/infomasi']
     ], m)
     /*let url = `https://telegra.ph/file/ab1df70dfd5c2bac64da1.jpg`.trim()
