@@ -44,6 +44,8 @@ const defaultMenu = {
 ╠➤🔍𝙏𝙤𝙩𝙖𝙡 𝙁𝙞𝙩𝙪𝙧 : *350*
 ╠➤(Ⓟ) : 𝙋𝙧𝙚𝙢𝙞𝙪𝙢
 ╠➤(Ⓛ) : 𝙇𝙞𝙢𝙞𝙩
+╠➤⚡𝙒𝙚𝙗𝙨𝙞𝙩𝙚 𝙍𝙪𝙣 : *Okteto*
+╠➤♨ 𝘽𝙤𝙩 𝙤𝙣𝙡𝙞𝙣𝙚 𝟮𝟰 𝙅𝙖𝙢 ♨
 ╚═══════╦════════╝
 ╔═══════╩════════╗
 ║ 〘𝙿𝚁𝙾𝙵𝙸𝙻𝙴 𝙼𝚄〙
@@ -164,7 +166,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     let url = `https://i.postimg.cc/nrMn3sMN/menu.jpg`
-    conn.sendHydrated(m.chat, text.trim(), 'Cylen-MD | DikaOFC', null, 'https://youtube.com/channel/UC3HcOB2U-fgsR8onRGXFM3w', 'YOUTUBE', '', '', [
+    conn.sendHydrated(m.chat, text.trim(), 'Cylen-MD | DikaOFC', null, 'https://youtube.com/DIKA-MD', 'GITHUB', '', '', [
       ['𝗚𝗥𝗨𝗣 𝗕𝗢𝗧', '/donasi'],
       ['𝗝𝗔𝗦𝗔 𝗥𝗨𝗡', '/sewa'],
       ['𝗢𝗪𝗡𝗘𝗥', '/owner']
