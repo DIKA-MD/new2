@@ -8,7 +8,7 @@ global.owner = [
 ] 
 global.ownername = [['DikaOFC']]
 global.namabot = [['Cylen-MD']]
-global.ownerinsta = [['@Gempy Ton | DikaOFC']]
+global.ownerinsta = [['DikaOFC | © 2021']]
 global.mods = [] 
 global.prems = [] 
 
